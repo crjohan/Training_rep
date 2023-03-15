@@ -22,7 +22,7 @@ The if-statement needs a condition to validate (something to check whether it is
 
 
 number_of_volvos = 5
-number_of_teslas = 6
+number_of_teslas = 7
 if number_of_volvos < number_of_teslas:
     print("You should buy more Volvos!")
 else:
